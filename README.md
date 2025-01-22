@@ -1,4 +1,4 @@
 # Analog_Clock_with_sound_effect
 Live Url
-https://analog-clock-theunstopabble.netlify.app/
+https://anmolraj911.github.io/analog-clock/
 
